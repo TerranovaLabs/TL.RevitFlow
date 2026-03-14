@@ -1,0 +1,9 @@
+name: "Revit Flow"
+slug: "revit-flow"
+description: "An agentic Revit plugin development platform."
+status: "Active"
+startDate: "2026-02"
+thumbnailUrl: ""
+tags:
+  - "dotnet"
+  - "Revit API"
